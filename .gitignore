@@ -1,0 +1,19 @@
+# NetBeans generated files
+**/build/
+**/dist/
+
+# NetBeans machine-specific configuration
+**/nbproject/private/
+
+# Compiled Java files
+*.class
+
+# Windows / macOS system files
+desktop.ini
+.DS_Store
+
+# MySQL Connector download/source folder
+/mysql-connector-j-9.7.0/
+
+# Duplicate connector at repository root
+/mysql-connector-j-9.7.0.jar
